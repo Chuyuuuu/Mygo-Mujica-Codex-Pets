@@ -7,6 +7,16 @@
 - `pet.json`
 - `spritesheet.webp`
 
+## 展示图
+
+MyGO!!!!!（从左到右：Anon、Tomori、Taki、Soyo、Rana）
+
+![MyGO!!!!! Codex pets waiting frames](showcase/mygo-waiting.png)
+
+Ave Mujica（从左到右：Saki、Mutsumi、Uika、Umiri、Nyamu）
+
+![Ave Mujica Codex pets waiting frames](showcase/ave-mujica-waiting.png)
+
 ## 角色
 
 | 作品 | 角色 | 宠物目录 |
