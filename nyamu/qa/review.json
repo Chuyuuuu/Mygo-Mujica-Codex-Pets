@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11322,
+          "bbox": [
+            54,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 167
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11728,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 131
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11484,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 167
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11449,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 161
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11540,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11443,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12965,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 321
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13351,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 285
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13590,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 363
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12980,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 273
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13710,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 330
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13846,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 352
+        },
+        {
+          "index": 6,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13354,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 279
+        },
+        {
+          "index": 7,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14250,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 356
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14250,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 356
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13354,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 279
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13846,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 352
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13710,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 330
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12980,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 273
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13590,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 363
+        },
+        {
+          "index": 6,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13351,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 285
+        },
+        {
+          "index": 7,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12965,
+          "bbox": [
+            41,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 321
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11140,
+          "bbox": [
+            54,
+            5,
+            137,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 98
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11441,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 98
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11398,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 103
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11344,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 106
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18376,
+          "bbox": [
+            28,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 272
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14167,
+          "bbox": [
+            43,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 200
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17327,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 262
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13236,
+          "bbox": [
+            45,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 187
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13066,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 284
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13011,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 212
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13749,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 127
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14890,
+          "bbox": [
+            43,
+            5,
+            148,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18638,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 241
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14821,
+          "bbox": [
+            44,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 172
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13754,
+          "bbox": [
+            47,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 213
+        },
+        {
+          "index": 6,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13019,
+          "bbox": [
+            49,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 176
+        },
+        {
+          "index": 7,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12880,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 194
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11134,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 232
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11234,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 225
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10519,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 141
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11241,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 238
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10916,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 189
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10866,
+          "bbox": [
+            53,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14097,
+          "bbox": [
+            45,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 308
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13764,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 308
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13899,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 314
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13525,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 312
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13173,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 263
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12888,
+          "bbox": [
+            48,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 287
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10398,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 134
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9875,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 130
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10028,
+          "bbox": [
+            55,
+            5,
+            136,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 100
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9922,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 132
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10556,
+          "bbox": [
+            54,
+            5,
+            138,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 117
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10382,
+          "bbox": [
+            56,
+            5,
+            135,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 145
+        }
+      ]
+    }
+  ]
+}

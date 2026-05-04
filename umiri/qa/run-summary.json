@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-6/umiri-pet-run",
+  "spritesheet": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-6/umiri-pet-run/final/spritesheet.webp",
+  "validation": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-6/umiri-pet-run/final/validation.json",
+  "contact_sheet": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-6/umiri-pet-run/qa/contact-sheet.png",
+  "review": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-6/umiri-pet-run/qa/review.json",
+  "videos": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-6/umiri-pet-run/qa/videos",
+  "package": "$pathToCodexHome$/.codex/pets/umiri"
+}

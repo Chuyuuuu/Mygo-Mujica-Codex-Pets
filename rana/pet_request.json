@@ -1,0 +1,244 @@
+{
+  "pet_id": "rana-parfait",
+  "display_name": "Rana Parfait",
+  "description": "A quiet pixel-art Codex pet inspired by R\u0101na's black oversized torn top, white sleeves, silver bob hair, heterochromia, and a rare matcha parfait treat.",
+  "created_at": "2026-05-04T12:28:09.634555+00:00",
+  "atlas": {
+    "columns": 8,
+    "rows": 9,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 1872
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "neutral breathing/blinking loop"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "rightward locomotion loop"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "leftward locomotion loop"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "greeting gesture with raised wave and return"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "anticipation, lift, peak, descent, settle"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "sad, failed, or deflated reaction"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "patient waiting loop with small motion"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "generic in-place running loop"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "focused inspecting or review loop"
+    }
+  ],
+  "layout_guides": [
+    {
+      "state": "idle",
+      "path": "references/layout-guides/idle.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-right",
+      "path": "references/layout-guides/running-right.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-left",
+      "path": "references/layout-guides/running-left.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waving",
+      "path": "references/layout-guides/waving.png",
+      "width": 768,
+      "height": 208,
+      "frames": 4,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "jumping",
+      "path": "references/layout-guides/jumping.png",
+      "width": 960,
+      "height": 208,
+      "frames": 5,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "failed",
+      "path": "references/layout-guides/failed.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waiting",
+      "path": "references/layout-guides/waiting.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running",
+      "path": "references/layout-guides/running.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "review",
+      "path": "references/layout-guides/review.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    }
+  ],
+  "references": [
+    {
+      "path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-800eba5a9889f164262132833dd27aab/output/hatch-pet/rana-parfait/references/reference-01.jpg",
+      "width": 1179,
+      "height": 1641,
+      "mode": "RGB",
+      "format": "JPEG",
+      "source_path": "$pathToCodexHome$/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_el7nkkyqqfm822_56b8/temp/RWTemp/2026-05/9e20f478899dc29eb19741386f9343c8/800eba5a9889f164262132833dd27aab.jpg",
+      "copied_path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-800eba5a9889f164262132833dd27aab/output/hatch-pet/rana-parfait/references/reference-01.jpg"
+    },
+    {
+      "path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-800eba5a9889f164262132833dd27aab/output/hatch-pet/rana-parfait/references/reference-02.png",
+      "width": 1179,
+      "height": 2556,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "$pathToCodexHome$/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_el7nkkyqqfm822_56b8/temp/RWTemp/2026-05/9e20f478899dc29eb19741386f9343c8/fb43647884bf2baa75d454d18688ad4c.png",
+      "copied_path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-800eba5a9889f164262132833dd27aab/output/hatch-pet/rana-parfait/references/reference-02.png"
+    },
+    {
+      "path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-800eba5a9889f164262132833dd27aab/output/hatch-pet/rana-parfait/references/reference-03.jpg",
+      "width": 354,
+      "height": 229,
+      "mode": "RGB",
+      "format": "JPEG",
+      "source_path": "$pathToCodexHome$/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_el7nkkyqqfm822_56b8/temp/RWTemp/2026-05/9e20f478899dc29eb19741386f9343c8/10779ffb7649bf6d200f95ec394b1fee.jpg",
+      "copied_path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-800eba5a9889f164262132833dd27aab/output/hatch-pet/rana-parfait/references/reference-03.jpg"
+    },
+    {
+      "path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-800eba5a9889f164262132833dd27aab/output/hatch-pet/rana-parfait/references/reference-04.jpg",
+      "width": 1179,
+      "height": 1563,
+      "mode": "RGB",
+      "format": "JPEG",
+      "source_path": "$pathToCodexHome$/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_el7nkkyqqfm822_56b8/temp/RWTemp/2026-05/9e20f478899dc29eb19741386f9343c8/46795806652d2a751db78fec92d8cf47.jpg",
+      "copied_path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-800eba5a9889f164262132833dd27aab/output/hatch-pet/rana-parfait/references/reference-04.jpg"
+    }
+  ],
+  "chroma_key": {
+    "hex": "#00FFFF",
+    "rgb": [
+      0,
+      255,
+      255
+    ],
+    "name": "cyan",
+    "selection": "auto",
+    "score": 210.01
+  },
+  "pet_notes": "a small chibi human-like digital pet: silver-white bob hair with blunt bangs and soft side strands, one golden eye and one blue-violet eye, pale face with calm slightly blank expression, black oversized off-shoulder torn sweater over visible white shoulder straps and long white sleeve cuffs, short white underlayer, black ankle boots; no guitar in the base identity; matcha parfait appears only in the waiting treat/eating row as a tiny side prop, never in idle/running-right/running-left/running/waving/jumping/failed/review rows",
+  "style_notes": "Pixel art, tiny desktop companion, readable at 192x208; keep the black torn hem and white cuffs as the main outfit cue; the matcha parfait is only a small occasional easter egg in the waiting row.",
+  "house_style": "Codex digital pet sprite style: pixel-art-adjacent low-resolution mascot sprite, compact chibi proportions, chunky whole-body silhouette, thick dark 1-2 px outline, visible stepped/pixel edges, limited palette, flat cel shading with at most one small highlight and one shadow step, simple readable face, tiny limbs, and no detail that disappears at 192x208. Avoid polished illustration, painterly rendering, anime key art, 3D render, vector app-icon polish, glossy lighting, soft gradients, realistic fur or material texture, anti-aliased high-detail edges, and complex tiny accessories.",
+  "primary_generation_skill": "$imagegen",
+  "canonical_identity_reference": {
+    "path": "references/canonical-base.png",
+    "source_job": "base",
+    "sha256": "e8eb23882369f9f95e67b14fc314346be823ede19687cd7adfaf55d12bc3761a",
+    "metadata": {
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "format": "PNG"
+    }
+  }
+}

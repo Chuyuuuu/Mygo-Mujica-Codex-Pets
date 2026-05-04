@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17207,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 194
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17362,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 212
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17353,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 222
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17160,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 208
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17329,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 224
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17099,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 234
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19096,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 343
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18914,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 344
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16984,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 323
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19093,
+          "bbox": [
+            24,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 338
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19779,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 318
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16975,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 289
+        },
+        {
+          "index": 6,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17808,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 302
+        },
+        {
+          "index": 7,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18664,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 317
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17780,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 439
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17485,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 398
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18182,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 316
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19379,
+          "bbox": [
+            22,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 392
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19617,
+          "bbox": [
+            22,
+            5,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 445
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16895,
+          "bbox": [
+            27,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 375
+        },
+        {
+          "index": 6,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18189,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 340
+        },
+        {
+          "index": 7,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17053,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 350
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15653,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 146
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15977,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 163
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16188,
+          "bbox": [
+            32,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 154
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15575,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20095,
+          "bbox": [
+            24,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 359
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18512,
+          "bbox": [
+            27,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 351
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20695,
+          "bbox": [
+            5,
+            9,
+            187,
+            198
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 483
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18513,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 337
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17398,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 275
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17178,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 214
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18316,
+          "bbox": [
+            32,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 198
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22805,
+          "bbox": [
+            21,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 302
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25410,
+          "bbox": [
+            11,
+            5,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 287
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21345,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 220
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22532,
+          "bbox": [
+            20,
+            5,
+            171,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 261
+        },
+        {
+          "index": 6,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22213,
+          "bbox": [
+            26,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 293
+        },
+        {
+          "index": 7,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17422,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 206
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15839,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 219
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15657,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 189
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15295,
+          "bbox": [
+            41,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 216
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15653,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 258
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15506,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 193
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15572,
+          "bbox": [
+            40,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 211
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17259,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 275
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17368,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 318
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18306,
+          "bbox": [
+            28,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 318
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18081,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 292
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17624,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 299
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17142,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 265
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16262,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 409
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16152,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 444
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16496,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 409
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16150,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 416
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16243,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 421
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16096,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 412
+        }
+      ]
+    }
+  ]
+}

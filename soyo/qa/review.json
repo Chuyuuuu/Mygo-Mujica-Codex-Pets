@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11881,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 169
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11854,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 130
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11844,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11830,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 132
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11843,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 141
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11827,
+          "bbox": [
+            50,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 127
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14883,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 344
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14689,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 351
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15494,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 410
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18000,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 494
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15856,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 340
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15041,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 387
+        },
+        {
+          "index": 6,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16787,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 414
+        },
+        {
+          "index": 7,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14763,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 283
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15272,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 368
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14676,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 327
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14688,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 297
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14690,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 364
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14545,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 301
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15082,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 294
+        },
+        {
+          "index": 6,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14596,
+          "bbox": [
+            38,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 338
+        },
+        {
+          "index": 7,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14807,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 352
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12213,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 108
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12353,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 148
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12642,
+          "bbox": [
+            42,
+            5,
+            150,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 147
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12132,
+          "bbox": [
+            49,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 112
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18189,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 129
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19654,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 153
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20454,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 175
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15737,
+          "bbox": [
+            31,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 129
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16053,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 180
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17341,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 284
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17285,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17441,
+          "bbox": [
+            33,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 256
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21647,
+          "bbox": [
+            24,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 292
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 24980,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 288
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19911,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 257
+        },
+        {
+          "index": 6,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17753,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 212
+        },
+        {
+          "index": 7,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16976,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 248
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13013,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 240
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13027,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 202
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13031,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 246
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13365,
+          "bbox": [
+            42,
+            5,
+            149,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 229
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13031,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 254
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13029,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 223
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15228,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 295
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15679,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 268
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14872,
+          "bbox": [
+            36,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 251
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14379,
+          "bbox": [
+            39,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 261
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14929,
+          "bbox": [
+            35,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 258
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15085,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 277
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13087,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 163
+        },
+        {
+          "index": 1,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12395,
+          "bbox": [
+            49,
+            5,
+            143,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 2,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12766,
+          "bbox": [
+            45,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 203
+        },
+        {
+          "index": 3,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12941,
+          "bbox": [
+            45,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 195
+        },
+        {
+          "index": 4,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12920,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 152
+        },
+        {
+          "index": 5,
+          "file": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13041,
+          "bbox": [
+            46,
+            5,
+            146,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 165
+        }
+      ]
+    }
+  ]
+}

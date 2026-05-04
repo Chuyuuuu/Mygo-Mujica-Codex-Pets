@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-804ee0e6775a9c51757b0bcf7d38444b/hatch-pet-taki",
+  "spritesheet": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-804ee0e6775a9c51757b0bcf7d38444b/hatch-pet-taki/final/spritesheet.webp",
+  "validation": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-804ee0e6775a9c51757b0bcf7d38444b/hatch-pet-taki/final/validation.json",
+  "contact_sheet": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-804ee0e6775a9c51757b0bcf7d38444b/hatch-pet-taki/qa/contact-sheet.png",
+  "review": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-804ee0e6775a9c51757b0bcf7d38444b/hatch-pet-taki/qa/review.json",
+  "videos": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-804ee0e6775a9c51757b0bcf7d38444b/hatch-pet-taki/qa/videos",
+  "package": "$pathToCodexHome$/.codex/pets/taki"
+}

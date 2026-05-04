@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu",
+  "spritesheet": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/final/spritesheet.webp",
+  "validation": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/final/validation.json",
+  "contact_sheet": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/qa/contact-sheet.png",
+  "review": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/qa/review.json",
+  "videos": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-img-3/output/hatch-pet/nyamu/qa/videos",
+  "package": "$pathToCodexHome$/.codex/pets/nyamu"
+}

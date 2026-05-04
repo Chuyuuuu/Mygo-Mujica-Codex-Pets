@@ -1,0 +1,125 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FF00",
+    "rgb": [
+      0,
+      255,
+      0
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/idle/00.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/idle/01.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/idle/02.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/idle/03.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/idle/04.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/idle/05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-right",
+      "frames": [
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/00.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/01.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/02.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/03.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/04.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/05.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/06.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-right/07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running-left",
+      "frames": [
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/00.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/01.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/02.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/03.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/04.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/05.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/06.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running-left/07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waving",
+      "frames": [
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waving/00.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waving/01.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waving/02.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waving/03.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/jumping/00.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/jumping/01.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/jumping/02.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/jumping/03.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/jumping/04.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/00.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/01.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/02.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/03.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/04.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/05.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/06.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/failed/07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waiting",
+      "frames": [
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waiting/00.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waiting/01.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waiting/02.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waiting/03.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waiting/04.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/waiting/05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running",
+      "frames": [
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running/00.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running/01.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running/02.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running/03.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running/04.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/running/05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "review",
+      "frames": [
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/review/00.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/review/01.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/review/02.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/review/03.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/review/04.png",
+        "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-57148545936dd3e0b157ed5bd548b896/hatch-runs/soyo/frames/review/05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

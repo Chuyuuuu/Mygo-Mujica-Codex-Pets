@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi",
+  "spritesheet": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/final/spritesheet.webp",
+  "validation": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/final/validation.json",
+  "contact_sheet": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/qa/contact-sheet.png",
+  "review": "$pathToCodexHome$/Documents/Codex/2026-05-04/https-github-com-openai-skills-tree/output/hatch-pet/mutsumi/qa/review.json",
+  "videos": null,
+  "package": "$pathToCodexHome$/.codex/pets/mutsumi"
+}

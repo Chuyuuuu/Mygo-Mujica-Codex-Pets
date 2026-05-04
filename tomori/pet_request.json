@@ -1,0 +1,234 @@
+{
+  "pet_id": "tomori",
+  "display_name": "Tomori",
+  "description": "A quiet pixel-art Codex pet inspired by Takamatsu Tomori in her Haneoka winter uniform.",
+  "created_at": "2026-05-04T12:27:20.412254+00:00",
+  "atlas": {
+    "columns": 8,
+    "rows": 9,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 1872
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "row": 0,
+      "frames": 6,
+      "purpose": "neutral breathing/blinking loop"
+    },
+    {
+      "state": "running-right",
+      "row": 1,
+      "frames": 8,
+      "purpose": "rightward locomotion loop"
+    },
+    {
+      "state": "running-left",
+      "row": 2,
+      "frames": 8,
+      "purpose": "leftward locomotion loop"
+    },
+    {
+      "state": "waving",
+      "row": 3,
+      "frames": 4,
+      "purpose": "greeting gesture with raised wave and return"
+    },
+    {
+      "state": "jumping",
+      "row": 4,
+      "frames": 5,
+      "purpose": "anticipation, lift, peak, descent, settle"
+    },
+    {
+      "state": "failed",
+      "row": 5,
+      "frames": 8,
+      "purpose": "sad, failed, or deflated reaction"
+    },
+    {
+      "state": "waiting",
+      "row": 6,
+      "frames": 6,
+      "purpose": "patient waiting loop with small motion"
+    },
+    {
+      "state": "running",
+      "row": 7,
+      "frames": 6,
+      "purpose": "generic in-place running loop"
+    },
+    {
+      "state": "review",
+      "row": 8,
+      "frames": 6,
+      "purpose": "focused inspecting or review loop"
+    }
+  ],
+  "layout_guides": [
+    {
+      "state": "idle",
+      "path": "references/layout-guides/idle.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-right",
+      "path": "references/layout-guides/running-right.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running-left",
+      "path": "references/layout-guides/running-left.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waving",
+      "path": "references/layout-guides/waving.png",
+      "width": 768,
+      "height": 208,
+      "frames": 4,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "jumping",
+      "path": "references/layout-guides/jumping.png",
+      "width": 960,
+      "height": 208,
+      "frames": 5,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "failed",
+      "path": "references/layout-guides/failed.png",
+      "width": 1536,
+      "height": 208,
+      "frames": 8,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "waiting",
+      "path": "references/layout-guides/waiting.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "running",
+      "path": "references/layout-guides/running.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    },
+    {
+      "state": "review",
+      "path": "references/layout-guides/review.png",
+      "width": 1152,
+      "height": 208,
+      "frames": 6,
+      "cell_width": 192,
+      "cell_height": 208,
+      "safe_margin_x": 18,
+      "safe_margin_y": 16,
+      "usage": "layout guide input only; do not copy visible guide lines into generated sprite strips"
+    }
+  ],
+  "references": [
+    {
+      "path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-ba8923aca17105b37e1243d855c2ca08/tomori-pet-run/references/reference-01.png",
+      "width": 1179,
+      "height": 2556,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "$pathToCodexHome$/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_el7nkkyqqfm822_56b8/temp/RWTemp/2026-05/9e20f478899dc29eb19741386f9343c8/ba8923aca17105b37e1243d855c2ca08.png",
+      "copied_path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-ba8923aca17105b37e1243d855c2ca08/tomori-pet-run/references/reference-01.png"
+    },
+    {
+      "path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-ba8923aca17105b37e1243d855c2ca08/tomori-pet-run/references/reference-02.png",
+      "width": 1179,
+      "height": 2556,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "$pathToCodexHome$/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_el7nkkyqqfm822_56b8/temp/RWTemp/2026-05/9e20f478899dc29eb19741386f9343c8/83841111037f69ac53ddb51b06151a8c.png",
+      "copied_path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-ba8923aca17105b37e1243d855c2ca08/tomori-pet-run/references/reference-02.png"
+    },
+    {
+      "path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-ba8923aca17105b37e1243d855c2ca08/tomori-pet-run/references/reference-03.png",
+      "width": 1179,
+      "height": 2556,
+      "mode": "RGB",
+      "format": "PNG",
+      "source_path": "$pathToCodexHome$/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_el7nkkyqqfm822_56b8/temp/RWTemp/2026-05/9e20f478899dc29eb19741386f9343c8/5fd15f94abf6e1bf02bbdd9d36711160.png",
+      "copied_path": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-ba8923aca17105b37e1243d855c2ca08/tomori-pet-run/references/reference-03.png"
+    }
+  ],
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "name": "user-selected",
+    "selection": "manual"
+  },
+  "pet_notes": "a compact chibi schoolgirl digital pet inspired by Takamatsu Tomori: short muted lavender-gray bob hair with soft bangs, large gentle reddish eyes, small reserved mouth, grey Haneoka winter blazer with white lapel piping and gold buttons, white shirt, dark green tie with diagonal yellow stripes, dark green plaid pleated skirt with yellow grid lines, dark navy knee socks, brown loafers, shy calm posture; no rocks in the base pet or normal rows; only the review row may include one tiny gray pebble held close as a subtle Easter egg",
+  "style_notes": "Pixel-art style, not anime illustration. Keep the pet human-chibi, compact, calm and reserved. Simplify details so the tie stripes, blazer piping, plaid skirt, bob haircut, and reddish eyes remain readable at 192x208. The stone cameo must appear only in one review animation row frame group, as a tiny hand-held or closely touched pebble, never as the main visual element and never detached far from the pet.",
+  "house_style": "Codex digital pet sprite style: pixel-art-adjacent low-resolution mascot sprite, compact chibi proportions, chunky whole-body silhouette, thick dark 1-2 px outline, visible stepped/pixel edges, limited palette, flat cel shading with at most one small highlight and one shadow step, simple readable face, tiny limbs, and no detail that disappears at 192x208. Avoid polished illustration, painterly rendering, anime key art, 3D render, vector app-icon polish, glossy lighting, soft gradients, realistic fur or material texture, anti-aliased high-detail edges, and complex tiny accessories.",
+  "primary_generation_skill": "$imagegen",
+  "canonical_identity_reference": {
+    "path": "references/canonical-base.png",
+    "source_job": "base",
+    "sha256": "a9f0f3ac18c61f5e358501879370f9cd83bcefd6090a07ec231b2fbcf5352fdf",
+    "metadata": {
+      "width": 1205,
+      "height": 1306,
+      "mode": "RGB",
+      "format": "PNG"
+    }
+  }
+}

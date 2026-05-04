@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-800eba5a9889f164262132833dd27aab/output/hatch-pet/rana-parfait",
+  "spritesheet": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-800eba5a9889f164262132833dd27aab/output/hatch-pet/rana-parfait/final/spritesheet.webp",
+  "validation": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-800eba5a9889f164262132833dd27aab/output/hatch-pet/rana-parfait/final/validation.json",
+  "contact_sheet": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-800eba5a9889f164262132833dd27aab/output/hatch-pet/rana-parfait/qa/contact-sheet.png",
+  "review": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-800eba5a9889f164262132833dd27aab/output/hatch-pet/rana-parfait/qa/review.json",
+  "videos": null,
+  "package": "$pathToCodexHome$/.codex/pets/rana-parfait"
+}

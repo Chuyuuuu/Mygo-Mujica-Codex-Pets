@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-ba8923aca17105b37e1243d855c2ca08/tomori-pet-run",
+  "spritesheet": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-ba8923aca17105b37e1243d855c2ca08/tomori-pet-run/final/spritesheet.webp",
+  "validation": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-ba8923aca17105b37e1243d855c2ca08/tomori-pet-run/final/validation.json",
+  "contact_sheet": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-ba8923aca17105b37e1243d855c2ca08/tomori-pet-run/qa/contact-sheet.png",
+  "review": "$pathToCodexHome$/Documents/Codex/2026-05-04/files-mentioned-by-the-user-ba8923aca17105b37e1243d855c2ca08/tomori-pet-run/qa/review.json",
+  "videos": null,
+  "package": "$pathToCodexHome$/.codex/pets/tomori"
+}
